@@ -1,0 +1,1 @@
+class NotReady extends Exception {}

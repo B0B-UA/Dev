@@ -1,0 +1,1 @@
+class OutOfFuel extends Exception {}

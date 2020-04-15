@@ -1,0 +1,1 @@
+class OutOfInkException extends WritingUtencilException {}

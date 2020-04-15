@@ -1,0 +1,1 @@
+class OutOfSpaceException extends WritingUtencilException {}
